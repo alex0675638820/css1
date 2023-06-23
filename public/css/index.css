@@ -63,7 +63,7 @@ div:last-of-type > span:last-child {
 .text-wrapper > p:only-of-type {
 	background: yellow;
 }
-.lesson-three-task-one > nav > a[href] {
+.lesson-three-task-one nav a[href] {
 	color: white;
 }
 .lesson-three-task-two > li[value] {
